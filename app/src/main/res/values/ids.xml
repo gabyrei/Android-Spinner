@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonD6" type="id">d6</item>
+    <item name="textDado" type="id">d6</item>
+    <item name="imageLados" type="id">d6</item>
+    <item name="buttonD12" type="id" />
+    <item name="buttonD20" type="id">d20</item>
+</resources>
